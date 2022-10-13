@@ -2,11 +2,10 @@
 
 ### Notes on this theme
 
+Based off of https://github.com/colineckert/obsidian-things
+
 This theme was built using code from **@kepano's** great Minimal theme. Please support @kepano's work!
 
-Support **@kepano** on [Twitter](https://www.twitter.com/kepano) or [Buy @kepano a coffee](https://www.buymeacoffee.com/kepano)
-
-<a href="https://www.buymeacoffee.com/kepano"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kepano&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 ![](assets/main-demo.png)
 
@@ -42,14 +41,6 @@ This theme has support for the following Obsidian community plugins:
 
 ## Installation
 
-### Obsidian Marketplace (Recommended)
-
-1. Open the **Settings** in Obsidian
-1. Navigate to **Appearances** tab under **Options**
-1. Under the **Themes** section, click on the `Manage` button across from **Themes**
-1. Search for `Things` in the Filter text input
-1. Click `Use` and then you're done! 🎉
-
 ### Manual
 
 1. Download this repo
@@ -68,8 +59,4 @@ If you have any issues and/or suggestions, please submit an issue or raise a PR.
 
 Again, I owe a huge hat tip to **@kepano** and his Minimal Theme, which served as the base for this theme, as well as to **@chetachiezikeuzor** and her Yin and Yang Theme for further inspiration on building an elegant, native-feeling design!
 
-## Support
 
-🎉 You can help me keep improving _things_ like this by supporting development: **@colineckert** on [Twitter](https://www.twitter.com/colineckert) or [Buy me a coffee](https://www.buymeacoffee.com/colineckert).
-
-<a href="https://www.buymeacoffee.com/colineckert"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=colineckert&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
