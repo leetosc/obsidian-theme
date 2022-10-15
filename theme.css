@@ -1967,7 +1967,8 @@ input[type="checkbox"]:checked {
 }
 .nav-buttons-container {
   padding: 10px 5px 0px 5px;
-  margin-bottom: 0px !important;
+  /* margin-bottom: 0px !important; */
+  margin-bottom: 8px;
   justify-content: flex-start;
   border: 0;
 }
@@ -1984,6 +1985,7 @@ input[type="checkbox"]:checked {
   line-height: 1.5;
   cursor: var(--cursor);
 }
+
 .nav-folder-children .nav-folder-children {
   margin-left: 20px;
   padding-left: 0;
@@ -1998,6 +2000,7 @@ input[type="checkbox"]:checked {
   border-radius: 6px;
   border: 1px solid transparent;
 }
+
 .nav-folder-title-content {
   padding: 0px 4px 1px 0;
   font-weight: 600;
